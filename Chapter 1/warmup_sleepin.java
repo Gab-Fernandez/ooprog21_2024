@@ -4,7 +4,7 @@ public class warmup_sleepin {
     }
 
     public static void main(String[] args) {
-        SleepIn sleepIn = new SleepIn();
+        warmup_sleepin sleepIn = new warmup_sleepin();
 
         System.out.println(sleepIn.sleepIn(false, false));
         System.out.println(sleepIn.sleepIn(true, false));  
